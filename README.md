@@ -11,7 +11,7 @@ All my posts about LoRa APRS at
 [my blog - OK2ZAW](https://ok2zaw.blogspot.com/search/label/LoRa%20APRS)
 
 You can download last image here:
-[12-2020-002 from webshare](https://webshare.cz/#/file/utRTdVsONd)
+[12-2020-002 from webshare](https://webshare.cz/#/file/GDr4wJfoTR)
 
 
 ![Coverage](https://github.com/ok2zaw/Raspberry-PI-image-LoRa-APRS-2m-APRS-OpenWeb-RX/blob/main/mapa.png)
