@@ -12,7 +12,7 @@ All my posts about LoRa APRS at
 
 **You can download last image here:)**
 
-**[25-01-2021-rev3 from webshare - needs 8GB SD or bigger](http://9.dl.webshare.cz/9133/zQNltSRvbE/524288000/eJw1j0tLxTAQhf_LLFylbWaaRw1cXLkSKiriplDSNtFivC3p40LF_26u4GqYw_nmnPkGCwYU5cRFTgJzoYDBCgYV0q0WWlQM9rQy2MBIzqXQDJY_YQazxs0xOKcT49d7G6ZoWzvHpY1raKdPOuylJZlxzIgTZtHtZX6Mc0oYEkKKO0TVD548dlYo6qUnW_mBq1JzadP0srJXe2p03kJgEBN4cd3yYaPL+6Mp_BhcUxxPdVhfnvfuvinuXIxTPL3WD_XjW30zna4fxf+yywGGSkSBUmv8+QX3S0kl/263978303bcbd1be43ba66e4d62158fca65111f1/img_lora_aprs_rtl_ok2zaw_25-01-2021-rev3.zip)**
+**[25-01-2021-rev3 from webshare - needs 8GB SD or bigger](https://webshare.cz/#/file/zQNltSRvbE)**
 
 [26-12-2020-rev2 from webshare - needs 32GB SD or bigger](https://webshare.cz/#/file/GDr4wJfoTR)
 
